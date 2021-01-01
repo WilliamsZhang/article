@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://williamszhang.github.io/article</loc>
+  </url>
+  
+    <url>
+      <loc>https://williamszhang.github.io/article/css_variable</loc>
+    </url>
+  
+    <url>
+      <loc>https://williamszhang.github.io/article/handle_restful_api_error</loc>
+    </url>
+  
+</urlset>
